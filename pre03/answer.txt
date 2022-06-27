@@ -4,7 +4,7 @@ No, I wug.
 You wugga wug.
 I wug.
 
-2. None of the functions in this program have parameters so the state diagram is very simple:
+2. None of the functions in this program have parameters so the stack diagram is very simple:
 
 main[]
 zoop[]
@@ -13,4 +13,4 @@ ping[]
 
 (The square brackets here represent empty boxes)
 
-3. It keeps printing "Wug." infinitely over and over until the computer stops the program.
+3. It keeps printing "Wug." infinitely over and over until the computer stops the program (until the stack overflows).
