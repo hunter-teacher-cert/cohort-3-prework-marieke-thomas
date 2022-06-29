@@ -13,7 +13,7 @@ public class Time{
     System.out.print("Seconds remaining in the day: ");
     System.out.println(86400 - totSecs);
     System.out.print("Percentage of the day passed: ");
-    System.out.println(totSecs/86400.0 * 100);
+    System.out.println(totSecs*100/86400.0);
     
     //updated time
     minute = 20;
